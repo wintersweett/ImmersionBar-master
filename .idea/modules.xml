@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ImmersionBar-master.iml" filepath="$PROJECT_DIR$/../ImmersionBar-master.iml" group="ImmersionBar-master" />
+      <module fileurl="file://$PROJECT_DIR$/../immersionbar/immersionbar.iml" filepath="$PROJECT_DIR$/../immersionbar/immersionbar.iml" group="ImmersionBar-master/immersionbar" />
+      <module fileurl="file://$PROJECT_DIR$/../immersionbar-components/immersionbar-components.iml" filepath="$PROJECT_DIR$/../immersionbar-components/immersionbar-components.iml" group="ImmersionBar-master/immersionbar-components" />
+      <module fileurl="file://$PROJECT_DIR$/../immersionbar-ktx/immersionbar-ktx.iml" filepath="$PROJECT_DIR$/../immersionbar-ktx/immersionbar-ktx.iml" group="ImmersionBar-master/immersionbar-ktx" />
+      <module fileurl="file://$PROJECT_DIR$/immersionbar-sample.iml" filepath="$PROJECT_DIR$/immersionbar-sample.iml" group="ImmersionBar-master/immersionbar-sample" />
+    </modules>
+  </component>
+</project>
